@@ -9,6 +9,10 @@ FAIL_JOB_RESULT = 'fails'
 PROVISION_ACTION = 'provision'
 DEPROVISION_ACTION = 'deprovision'
 
+#---- Event Exchange
+PROVISION_EXCHANGE = 'events_delayed'
+DIAGNOSTIC_EXCHANGE = 'events'
+
 #---- Event Names
 JOB_RESULT_EVENT_NAME = 'job_result'
 PROVISION_RETRY_EVENT_NAME = 'provision.retry'
