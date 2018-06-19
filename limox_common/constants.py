@@ -15,6 +15,7 @@ DIAGNOSTIC_EXCHANGE = 'events'
 
 #---- Event Names
 PROVISION_JOB_EVENT_NAME = 'provision.new'
+DEPROVISION_JOB_EVENT_NAME = 'provision.remove'
 JOB_RESULT_EVENT_NAME = 'job_result'
 PROVISION_RETRY_EVENT_NAME = 'provision.retry'
 
