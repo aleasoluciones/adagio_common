@@ -11,4 +11,6 @@ DEPROVISION_ACTION = 'deprovision'
 
 #---- Event Names
 JOB_RESULT_EVENT_NAME = 'job_result'
+PROVISION_RETRY_EVENT_NAME = 'provision.retry'
+
 EVENT_WITH_NO_DELAY = 0
