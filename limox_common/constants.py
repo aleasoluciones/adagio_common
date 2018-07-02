@@ -9,8 +9,6 @@ FAIL_JOB_RESULT = 'fails'
 PROVISION_ACTION = 'provision'
 DEPROVISION_ACTION = 'deprovision'
 SERVICE_CHANGE_ACTION = 'service_change'
-SERVICE_CHANGE_PROVISION_ACTION = 'service_change_provision_action'
-SERVICE_CHANGE_DEPROVISION_ACTION = 'service_change_deprovision_action'
 
 #---- Event Exchange
 PROVISION_EXCHANGE = 'events_delayed'
