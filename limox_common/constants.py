@@ -9,6 +9,7 @@ FAIL_JOB_RESULT = 'fails'
 PROVISION_ACTION = 'provision'
 DEPROVISION_ACTION = 'deprovision'
 SERVICE_CHANGE_ACTION = 'service_change'
+UPDATE_CUSTOMER_ACTION = 'update_customer'
 
 #---- Event Exchange
 PROVISION_EXCHANGE = 'events_delayed'
