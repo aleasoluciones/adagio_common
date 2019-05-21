@@ -10,6 +10,7 @@ PROVISION_ACTION = 'provision'
 DEPROVISION_ACTION = 'deprovision'
 SERVICE_CHANGE_ACTION = 'service_change'
 UPDATE_CUSTOMER_ACTION = 'update_customer'
+UPDATE_CUSTOMER_SERIALNUMBER_ACTION = 'update_customer_serialnumber'
 
 #---- Event Exchange
 PROVISION_EXCHANGE = 'events_delayed'
