@@ -9,7 +9,7 @@ FAIL_JOB_RESULT = 'fails'
 PROVISION_ACTION = 'provision'
 DEPROVISION_ACTION = 'deprovision'
 SERVICE_CHANGE_ACTION = 'service_change'
-UPDATE_CUSTOMER_ACTION = 'update_customer'
+UPDATE_CUSTOMER_PON_INFO_ACTION = 'update_customer_pon_info'
 UPDATE_CUSTOMER_SERIALNUMBER_ACTION = 'update_customer_serialnumber'
 
 #---- Event Exchange
