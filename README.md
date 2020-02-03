@@ -1,6 +1,6 @@
-# Limox Common
+# Adagio Common
 
-This component has all common things for limox project
+This component has all common things for adagio project
 
 ## Develop environment
 
@@ -14,7 +14,7 @@ This component has all common things for limox project
     ```
     if [ -z "$VIRTUAL_ENV" ]; then
         source /usr/share/virtualenvwrapper/virtualenvwrapper.sh
-        workon limox
+        workon adagio
     fi
     ```
 

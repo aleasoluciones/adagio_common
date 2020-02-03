@@ -1,6 +1,6 @@
 #!/bin/bash
 
-dev/run-python-linter.sh staged && dev/all-tests.sh
+dev/run-python-linter.sh staged
 RETCODE=$?
 
 sleep 1

@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-
-
 #---- Job Result outcomes
 SUCCESS_JOB_RESULT = 'success'
 FAIL_JOB_RESULT = 'fails'
