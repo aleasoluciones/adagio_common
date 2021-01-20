@@ -24,3 +24,8 @@ EVENT_WITH_NO_DELAY = 0
 # ------ Serial number constraints
 SERIAL_NUMBER_LENGTH_SHORT_FORMAT = 12
 SERIAL_NUMBER_LENGTH_LONG_FORMAT = 16
+
+# ------ Vendor constraints
+FIBERHOME_VENDOR = 'fiberhome'
+ZTE_VENDOR = 'zte'
+HUAWEI_VENDOR = 'huawei'
