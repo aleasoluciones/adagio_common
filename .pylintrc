@@ -1,6 +1,0 @@
-[MESSAGES CONTROL]
-disable=all, missing-docstring, line-too-long, no-self-use
-enable=redefined-outer-name, useless-super-delegation, no-self-argument, bare-except, unidiomatic-typecheck, arguments-differ, undefined-variable, bad-continuation, trailing-newlines, trailing-whitespace, bad-whitespace, unused-import, bad-indentation, unused-variable, missing-final-newline, unused-argument
-
-[BASIC]
-good-names=id

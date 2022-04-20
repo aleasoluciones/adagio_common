@@ -6,5 +6,5 @@ setup(
     author='Bifer Team',
     description='Adagio common module',
     platforms='Linux',
-    packages=find_packages(exclude=['tests', 'specs', 'integration_specs'])
+    packages=find_packages(exclude=[])
 )

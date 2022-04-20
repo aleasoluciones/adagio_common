@@ -1,7 +1,0 @@
-#!/bin/bash
-
-dev/run-python-linter.sh staged
-RETCODE=$?
-
-sleep 1
-exit $RETCODE
